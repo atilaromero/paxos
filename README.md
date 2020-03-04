@@ -3,3 +3,6 @@
 
 Paxos implementation in Go
 
+## Documentation
+
+* Basic paxos: https://godoc.org/github.com/atilaromero/paxos/basic
