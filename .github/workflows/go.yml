@@ -16,4 +16,4 @@ jobs:
 
     - name: Test basic paxos
       working-directory: basic
-      run: go test
+      run: go test -v
